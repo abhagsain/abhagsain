@@ -6,7 +6,7 @@ See my projects on my [portfolio](https://abhagsain.com/?ref=github)
 
 💻 Currently Working at - [Treebo](https://github.com/treebo-noss). 
 
-Estimated Numbers of Hours Coding (Doesn't include the time spent debugging 😛)
+Estimated Numbers of Hours Spent Coding (Doesn't include the time spent on debugging 😛)
 
 <a href="https://wakatime.com/@b9607255-5bed-4e8d-813a-5d8e0a733e02"><img src="https://wakatime.com/badge/user/b9607255-5bed-4e8d-813a-5d8e0a733e02.svg" alt="Total time coded since Jan 15 2019" /></a>
 
