@@ -6,6 +6,10 @@ See my projects on my [portfolio](https://abhagsain.com/?ref=github)
 
 💻 Currently Working at - [Treebo](https://github.com/treebo-noss). 
 
+Estimated Numbers of Hours Coding (Doesn't include the time spent debugging 😛)
+
+<a href="https://wakatime.com/@b9607255-5bed-4e8d-813a-5d8e0a733e02"><img src="https://wakatime.com/badge/user/b9607255-5bed-4e8d-813a-5d8e0a733e02.svg" alt="Total time coded since Jan 15 2019" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -14,6 +18,8 @@ See my projects on my [portfolio](https://abhagsain.com/?ref=github)
 <a href="https://dribbble.com/abhagsain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abhagsain" height="20" width="30" /></a>
 
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
