@@ -1,8 +1,17 @@
-<img src="https://github.com/abhagsain/abhagsain/blob/main/Github%20Profile%20Header.png" />
+## 👋 Hi, I'm Anurag
+
+I'm passionate about Business, Tech, and solving problems. I'm currently scaling [SlidesAI](https://slidesai.io?ref=anurag-github) and tinkering with other SaaS products.
+
+When I'm not prompting LLMs, I watch history documentaries, learn about SaaS on YouTube, and binge-watch Netflix.
+Genres of movies/shows I like are RomCom, Comedy, Action, Sci-Fi, and mostly feel-good shows/movies.
+
+I'm a Stan (if you know what that means) who also likes Pop, EDM and Electro Swing.
+
+You can connect with me on [Twitter](https://x.com/abhagsain)
 
 #### 
 
-See my projects on my [portfolio](https://abhagsain.com/?ref=github)
+See my projects on my [portfolio](https://abhagsain.com/?ref=github) (Quite outdated though)
 
 💻 Currently Working at - [Treebo](https://github.com/treebo-noss). 
 
